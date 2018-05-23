@@ -9,7 +9,7 @@ cask 'antirsi' do
   app 'AntiRSI.app'
 
   caveats do
-    <<-EOS.undent
+    <<~EOS
       The new version of AntiRSI is available on the Mac App Store:
         http://itunes.apple.com/us/app/antirsi/id442007571?mt=12
 
