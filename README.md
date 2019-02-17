@@ -3,3 +3,4 @@
 Here are my custom casks for the following apps:
 
 - AntiRSI
+- aMule
