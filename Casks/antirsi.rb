@@ -14,7 +14,7 @@ cask 'antirsi' do
         http://itunes.apple.com/us/app/antirsi/id442007571?mt=12
 
       This is the old version released under the GPL license.
-      The binary is still available for downloadi from the homepage.
+      The binary is still available for download from the homepage.
       The source code is available on GitHub:
           https://github.com/onnlucky/antirsi
     EOS
