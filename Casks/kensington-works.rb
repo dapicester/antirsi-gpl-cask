@@ -1,6 +1,6 @@
 cask "kensington-works" do
-  version "2.2.6"
-  sha256 "67bbc502623f780c03504613c334e78783ae7410788867a0e8df400a9b59d348"
+  version "2.2.7"
+  sha256 "6d2e06d779bd9a401ec2e5b81d603833907209198fbb308b029846ce6de1f03d"
 
   url "https://www.kensington.com/siteassets/software-support/kensingtonworks/new-kensingtonworks-download/kensingtonworks_#{version}.pkg"
   name "KensingtonWorks for MAC"
